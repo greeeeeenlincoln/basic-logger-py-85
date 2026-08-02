@@ -1,2 +1,4 @@
-# basic-logger-py-85
+# Basic Logger Py 85
+
 A simple logging class in Python.
+
